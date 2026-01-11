@@ -1,3 +1,5 @@
+SPDX-License-Identifier: CC-BY-4.0
+
 # The Moonlit Menagerie
 
 A kid-friendly Adventure Builder story featuring fantastical animals. Designed for ages 6–9.
